@@ -1,0 +1,34 @@
+/**
+ * Created by xtdhwl on 14-1-26.
+ */
+.panels-sample-panels {
+    min-height: 320px;
+    min-width: 320px;
+}
+
+.list-item {
+    border: 1px solid silver;
+    padding: 18px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.gesture-sample-pad {
+    border-radius: 5px;
+    background-color: #888;
+    color: #686868;
+    text-shadow:#AAA 0px 1px 0, #000 0 -1px 0;
+    text-align:center;
+    padding-top:20%;
+    font-size:30px;
+    overflow:hidden;
+}
+
+.gesture-sample-note {
+    font-size:15px;
+    text-shadow:none;
+}
+
+.list-sample-around-item-selected {
+    background: #226B9A   repeat-x bottom;
+}

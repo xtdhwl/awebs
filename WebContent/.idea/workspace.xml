@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a808db87-cee6-42fc-ae6f-b037039b956c" name="Default" comment="" />
+    <ignored path="WebContent.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WebContent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="GridFlyweightRepeater.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enyo/lib/layout/list/source/GridFlyweightRepeater.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="37" selection-start="169" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="3795">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlyweightRepeater.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enyo/lib/layout/list/source/FlyweightRepeater.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="203" column="51" selection-start="6441" selection-end="6447" vertical-scroll-proportion="-3.517857" vertical-offset="2848" max-vertical-offset="3990">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Component.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enyo/enyo/source/kernel/Component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="10411" max-vertical-offset="11025">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Image.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enyo/enyo/source/ui/Image.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="21" selection-start="229" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="870">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enyo/enyo/source/kernel/Controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Button.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enyo/lib/onyx/source/Button.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gridview.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enyo/gridview.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="10" selection-start="149" selection-end="640" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4665">
+              <folding>
+                <marker date="1396067357451" expanded="true" signature="4451:4488" placeholder="..." />
+                <marker date="1396067357451" expanded="true" signature="4884:4921" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gridview.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enyo/gridview.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="-1.6071428" vertical-offset="0" max-vertical-offset="180">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/enyo/aweb/file.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="105" column="19" selection-start="4831" selection-end="4831" vertical-scroll-proportion="0.33333334" vertical-offset="1389" max-vertical-offset="4560">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AGridFlyWeightRepeater.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enyo/aweblib/AGridFlyWeightRepeater.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="11" selection-start="915" selection-end="915" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="4080">
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+                <marker date="1396067137231" expanded="true" signature="3482:3519" placeholder="..." />
+                <marker date="1396067137231" expanded="false" signature="3915:3952" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/enyo/lib/layout/list/source/GridList.js" />
+        <option value="$PROJECT_DIR$/enyo/gridview.css" />
+        <option value="$PROJECT_DIR$/enyo/build/app.js" />
+        <option value="$PROJECT_DIR$/enyo/aweb/files.js" />
+        <option value="$PROJECT_DIR$/enyo/main.jsp" />
+        <option value="$PROJECT_DIR$/enyo/demo/vt100.js" />
+        <option value="$PROJECT_DIR$/enyo/aweblib/Utils.js" />
+        <option value="$PROJECT_DIR$/usermanger.jsp" />
+        <option value="$PROJECT_DIR$/enyo/demo/demo.html" />
+        <option value="$PROJECT_DIR$/enyo/demo/demo.js" />
+        <option value="$PROJECT_DIR$/enyo/aweb/shell.js" />
+        <option value="$PROJECT_DIR$/enyo/main.html" />
+        <option value="$PROJECT_DIR$/enyo/aweb/camera.js" />
+        <option value="$PROJECT_DIR$/enyo/aweblib/widget.css" />
+        <option value="$PROJECT_DIR$/enyo/lib/layout/list/source/List.js" />
+        <option value="$PROJECT_DIR$/enyo/aweb/picture.css" />
+        <option value="$PROJECT_DIR$/enyo/aweb/picture.js" />
+        <option value="$PROJECT_DIR$/enyo/aweb/package.js" />
+        <option value="$PROJECT_DIR$/enyo/main.js" />
+        <option value="$PROJECT_DIR$/enyo/map/map.html" />
+        <option value="$PROJECT_DIR$/enyo/aweb/map.js" />
+        <option value="$PROJECT_DIR$/enyo/aweblib/service.js" />
+        <option value="$PROJECT_DIR$/enyo/gridview.html" />
+        <option value="$PROJECT_DIR$/enyo/aweblib/widget.js" />
+        <option value="$PROJECT_DIR$/enyo/aweblib/package.js" />
+        <option value="$PROJECT_DIR$/enyo/aweblib/AGridFlyWeightRepeater.js" />
+        <option value="$PROJECT_DIR$/enyo/aweb/file.css" />
+        <option value="$PROJECT_DIR$/enyo/gridview.js" />
+        <option value="$PROJECT_DIR$/enyo/aweb/file.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="64" />
+    <option name="y" value="-5" />
+    <option name="width" value="1303" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enyo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enyo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enyo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/enyo/gridview.html" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/enyo/aweb" />
+      <recent name="$PROJECT_DIR$/enyo/assets" />
+      <recent name="$PROJECT_DIR$/enyo/map" />
+      <recent name="$PROJECT_DIR$/enyo/aweblib" />
+      <recent name="$PROJECT_DIR$/enyo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/enyo/assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.main.html">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" engineId="firefox" uri="http://localhost:63342/WebContent/enyo/gridview.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" engineId="firefox" uri="http://localhost:63342/WebContent/enyo/main.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.main.html" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a808db87-cee6-42fc-ae6f-b037039b956c" name="Default" comment="" />
+      <created>1393167978876</created>
+      <updated>1393167978876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-5" width="1303" height="774" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988167" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988167" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32974634" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27901614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39940828" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988167" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/enyo/demo/demo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweblib/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="22" selection-start="67" selection-end="77" vertical-scroll-proportion="0.13867489" vertical-offset="0" max-vertical-offset="649" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usermanger.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="65" selection-start="2622" selection-end="2645" vertical-scroll-proportion="0.5261438" vertical-offset="533" max-vertical-offset="3645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/build/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="585" column="17" selection-start="13366" selection-end="13366" vertical-scroll-proportion="0.0" vertical-offset="8511" max-vertical-offset="36150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="10" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweblib/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="33" selection-start="2219" selection-end="2230" vertical-scroll-proportion="0.0" vertical-offset="103" max-vertical-offset="3255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/build/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4746" column="74" selection-start="181905" selection-end="181909" vertical-scroll-proportion="0.18710692" vertical-offset="71071" max-vertical-offset="216360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweb/camera.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweb/camera.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="6" selection-start="8" selection-end="10" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweb/picture.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="1" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.95377505" vertical-offset="446" max-vertical-offset="1155" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweb/package.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="12" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweb/map.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="649" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/lib/layout/slideable/source/Slideable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/demo/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="3" selection-start="3694" selection-end="4153" vertical-scroll-proportion="-12.625" vertical-offset="837" max-vertical-offset="1725" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/map/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="1121" selection-end="1249" vertical-scroll-proportion="-10.833333" vertical-offset="205" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/demo/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="301" column="0" selection-start="9875" selection-end="9875" vertical-scroll-proportion="5.5007706" vertical-offset="0" max-vertical-offset="17070" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweb/shell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="41" selection-end="2039" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweb/picture.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="72" selection-start="630" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="4485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweb/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="13" selection-start="2643" selection-end="2643" vertical-scroll-proportion="0.49056605" vertical-offset="693" max-vertical-offset="1515" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweblib/service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="313" column="6" selection-start="9979" selection-end="9979" vertical-scroll-proportion="-0.046224963" vertical-offset="4695" max-vertical-offset="6255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/enyo/source/ui/fullscreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="40" selection-start="3946" selection-end="5051" vertical-scroll-proportion="0.12172573" vertical-offset="1856" max-vertical-offset="2505" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/list1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="19" selection-start="450" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/build/enyo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2936" column="10" selection-start="90871" selection-end="90871" vertical-scroll-proportion="0.0" vertical-offset="43903" max-vertical-offset="56895">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/enyo/source/touch/TouchScrollStrategy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="29" selection-start="16" selection-end="30" vertical-scroll-proportion="-0.26785713" vertical-offset="0" max-vertical-offset="7230" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/enyo/source/touch/Scroller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="40" selection-start="4442" selection-end="4442" vertical-scroll-proportion="0.0" vertical-offset="1872" max-vertical-offset="6555" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/lib/layout/list/source/List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="23580">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/lib/layout/list/source/GridList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="236" column="59" selection-start="10551" selection-end="10572" vertical-scroll-proportion="0.0" vertical-offset="3030" max-vertical-offset="3720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/enyo/source/ui/data/DataGridList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="16" selection-start="828" selection-end="828" vertical-scroll-proportion="-0.18181819" vertical-offset="388" max-vertical-offset="1350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="818" column="20" selection-start="27705" selection-end="27709" vertical-scroll-proportion="0.53466874" vertical-offset="11923" max-vertical-offset="12705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/build/enyo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="1" selection-start="777" selection-end="777" vertical-scroll-proportion="0.0" vertical-offset="353" max-vertical-offset="2790" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/enyo/source/touch/Scroller.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="32" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/enyo/source/dom/Control.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="843" column="44" selection-start="26316" selection-end="26316" vertical-scroll-proportion="0.0" vertical-offset="12470" max-vertical-offset="16725">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/gridview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="42" selection-start="926" selection-end="926" vertical-scroll-proportion="0.48" vertical-offset="0" max-vertical-offset="625" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="423" column="0" selection-start="7656" selection-end="7656" vertical-scroll-proportion="0.0" vertical-offset="3488" max-vertical-offset="16200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="23" selection-start="1080" selection-end="1080" vertical-scroll-proportion="0.5245098" vertical-offset="99" max-vertical-offset="735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweb/_file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweblib/package.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="128" selection-end="128" vertical-scroll-proportion="0.13867489" vertical-offset="0" max-vertical-offset="649">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="45" selection-start="429" selection-end="446" vertical-scroll-proportion="0.27734977" vertical-offset="0" max-vertical-offset="649">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweblib/widget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="206" column="23" selection-start="8543" selection-end="8543" vertical-scroll-proportion="0.553429" vertical-offset="2713" max-vertical-offset="5040">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweb/file.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="1" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweblib/widget.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="3" selection-start="164" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweblib/AGridFlyWeightRepeater.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="11" selection-start="915" selection-end="915" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="4080">
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+            <marker date="1396067137231" expanded="true" signature="3482:3519" placeholder="..." />
+            <marker date="1396067137231" expanded="false" signature="3915:3952" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/lib/layout/list/source/GridFlyweightRepeater.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="37" selection-start="169" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/lib/layout/list/source/FlyweightRepeater.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="203" column="51" selection-start="6441" selection-end="6447" vertical-scroll-proportion="-3.517857" vertical-offset="2848" max-vertical-offset="3990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/enyo/source/kernel/Component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/enyo/source/ui/Image.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="21" selection-start="229" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/enyo/source/kernel/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="627">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/lib/onyx/source/Button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/gridview.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="-1.6071428" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/gridview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="10" selection-start="149" selection-end="640" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4665">
+          <folding>
+            <marker date="1396067357451" expanded="true" signature="4451:4488" placeholder="..." />
+            <marker date="1396067357451" expanded="true" signature="4884:4921" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enyo/aweb/file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="19" selection-start="4831" selection-end="4831" vertical-scroll-proportion="0.33333334" vertical-offset="1389" max-vertical-offset="4560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

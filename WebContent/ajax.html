@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>ajax Demo</title>
+<script  type="text/javascript">
+	
+	 function request (){
+		
+		var xmlhttp;
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+	  console.log("haha");
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+		alert("ok"); 
+    }
+  }
+xmlhttp.open("GET","/AWeb/webaction.do",true);
+xmlhttp.send();
+	}
+
+</script>
+</head>
+<body>
+<input type="button" value="ajax" onClick="request()">
+
+</body>
+</html>
